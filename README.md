@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently wordpress and web application<br>🌱 I’m currently learning React Native<br>💬 Shoot me an e-mail or add me on linkedin :)
+🔭 I’m currently working on wordpress and web application<br>🌱 I’m currently learning React Native<br>💬 Shoot me an e-mail or add me on linkedin :)
 
 
 ## 🌐 Socials:
