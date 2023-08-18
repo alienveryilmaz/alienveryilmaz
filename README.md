@@ -1,5 +1,5 @@
 # 💫 About Me:
-📡 https://www.alienveryilmaz.com/<br> 🔭 I’m currently working on wordpress and web applications<br>🌱 I’m currently learning React Native<br>💬 Shoot me an e-mail or add me on linkedin :)
+📡 https://www.alienveryilmaz.com/<br> 🔭 I’m currently working on javascript/react web applications<br>🌱 I’m currently learning React/React Native<br>💬 Shoot me an e-mail or add me on linkedin :)
 
 
 ## 🌐 Socials:
