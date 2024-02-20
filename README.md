@@ -10,7 +10,7 @@ I’m currently working on React/React Native
 * 🌍  I'm based in Turkey
 * 🖥️  See my portfolio at [Ali Enver YILMAZ Website](http://www.alienveryilmaz.com)
 * 🧠  I'm learning I am improving myself in React Native
-* ✉️  You can contact me at [www.alienveryilmaz.com/contacts/](mailto:www.alienveryilmaz.com/contacts)
+* ✉️  You can contact me at www.alienveryilmaz.com/contacts
 * 🤝  I'm open to collaborating on www.alienveryilmaz.com/contacts
 * ⚡  I'm secretly Batman... but don't tell anyone
 
