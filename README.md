@@ -2,7 +2,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ali Enver YILMAZ
 ========================================================================================================================================
 
-The World is Yours
+![GIF Açıklaması](https://i.pinimg.com/originals/83/17/7e/83177eace643e8d6b6e5e257bafb43d7.gif)
 ------------------
 
 I’m currently working on React/React Native
