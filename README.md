@@ -8,7 +8,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I’m currently working on React/React Native
 
 * 🌍  I'm based in Turkey
-* 🧠  I'm learning I am improving myself in React Native
+* 🧠  I am improving myself in React Native
 * 🖥️  See my portfolio at [Ali Enver YILMAZ Website](http://www.alienveryilmaz.com)
 * ✉️  You can contact me at www.alienveryilmaz.com/contacts
 * 🤝  I'm open to collaborating on www.alienveryilmaz.com/contacts
