@@ -5,13 +5,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ![GIF Açıklaması](https://i.pinimg.com/originals/83/17/7e/83177eace643e8d6b6e5e257bafb43d7.gif)
 ------------------
 
-I’m currently working on React/React Native
 
-* 🌍  I'm based in Turkey
-* 🧠  I am improving myself in React Native
-* 🖥️  See my portfolio at [Ali Enver YILMAZ Website](http://www.alienveryilmaz.com)
-* ✉️  You can contact me at www.alienveryilmaz.com/contacts
-* 🤝  I'm open to collaborating on www.alienveryilmaz.com/contacts
+* 🌍  I'm based in Munich
+* 🧠  IT Lead/React Native Dev
 * ⚡  I'm secretly Batman... but don't tell anyone
 
 ### Skills
