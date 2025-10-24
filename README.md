@@ -6,8 +6,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ------------------
 ![GIF Açıklaması](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MDdnYzFic3RxNXBtZDVzejJzcXZneDRwNzJ2MG1yMzB6bGNxYnMwYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IzubFVPz7AFG0/giphy.gif)
 ------------------
-![GIF Açıklaması](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanY3NWMxaTN3aHU2ajZjNmgzbXphcml1cTQxa2xhczBtYmFlY3l4eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/F0lCMmuyyQrEA/giphy.gif)
-------------------
 
 * 🌍  I'm based in Munich
 * 🧠  IT Lead/React Native Dev
