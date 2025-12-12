@@ -162,4 +162,4 @@ Başkent University — *2021*
 
 ---
 
-⭐️ *I don’t just write code — I build systems that understand people.*
+⭐️ *I don’t just write code — I build systems that understand human.*
