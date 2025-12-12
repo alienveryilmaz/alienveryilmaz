@@ -12,7 +12,6 @@
 - 🤖 **AI Engineer** (LLMs, Fine-tuning, RAG, AI Workflows)
 - 📱 **React Native Specialist**
 - 🧩 I design **algorithmic systems** that understand people (tests, matching, personality & behavior)
-- ⚡ Fun fact: I'm secretly Batman… but let’s keep that between us.
 
 ---
 
