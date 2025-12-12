@@ -156,8 +156,6 @@ Başkent University — *2021*
 ## 🌐 Connect With Me
 
 - 💼 **LinkedIn:** https://www.linkedin.com/in/alienveryilmaz  
-- 📸 **Instagram:** https://www.instagram.com/alienveryilmaz  
-- 💻 **GitHub:** https://github.com/alienveryilmaz  
 - 📧 **Email:** alienveryilmaz@gmail.com  
 
 ---
