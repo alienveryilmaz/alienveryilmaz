@@ -55,10 +55,15 @@ A fully custom dating platform built with **React Native**, featuring:
 - Expo
 - JSON, REST APIs
 
-### Backend & Tools
+### Backend & Cloud
+- **Google Firebase Ecosystem**
+  - Authentication
+  - Realtime Database
+  - Firestore
+  - Cloud Functions
+  - Event-driven backend architecture
 - Node.js
 - Git, GitHub, GitLab
-- Firebase
 - NPM, Jest
 
 ### AI & Data
