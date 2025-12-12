@@ -8,7 +8,7 @@
 ## 🧠 About Me
 
 - 📍 Based in **Munich, Germany**
-- 🧑‍💻 **IT Lead / Mobile Developer**
+- 🧑‍💻 **IT Lead / Mobile Engineer**
 - 🤖 **AI Engineer** (LLMs, Fine-tuning, RAG, AI Workflows)
 - 📱 **React Native Specialist**
 - 🧩 I design **algorithmic systems** that understand people (tests, matching, personality & behavior)
