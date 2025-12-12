@@ -158,16 +158,4 @@ Başkent University — *2021*
 
 ---
 
-## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alienveryilmaz&langs_count=10&theme=radical&hide_border=true)
-
----
-
-## ✍️ Random Dev Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
 ⭐️ *I don’t just write code — I build systems that understand people.*
