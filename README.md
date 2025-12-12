@@ -1,34 +1,173 @@
-# 💫 About Me:
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ali Enver YILMAZ
-========================================================================================================================================
+# 👋 Hi, I'm Ali Enver Yılmaz
 
-![GIF Açıklaması](https://i.pinimg.com/originals/83/17/7e/83177eace643e8d6b6e5e257bafb43d7.gif)
-------------------
-
-* 🌍  I'm based in Munich
-* 🧠  IT Lead/React Native Dev
-* ⚡  I'm secretly Batman... but don't tell anyone
-
-### Skills
-
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-
-
-### Socials
-
-<p align="left"> <a href="https://github.com/alienveryilmaz?tab=repositories" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.instagram.com/alienveryilmaz" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alienverylmz" height="32" width="32" /></a> <a href="https://www.linkedin.com/in/alienveryilmaz" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> </a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="https://github.com/alienveryilmaz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alienveryilmaz&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+> **IT Lead / React Native Developer / AI Engineer**  
+> Building intelligent products at the intersection of **mobile**, **AI**, and **human behavior**.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=alienveryilmaz&icon=9&color=11)](https://visitcount.itsvg.in)
+
+## 🧠 About Me
+
+- 📍 Based in **Munich, Germany**
+- 🧑‍💻 **IT Lead & Frontend / Mobile Developer**
+- 🤖 **AI Engineer** (LLMs, Fine-tuning, RAG, AI Workflows)
+- 📱 **React Native Specialist**
+- 🧩 I design **algorithmic systems** that understand people (tests, matching, personality & behavior)
+- ⚡ Fun fact: I'm secretly Batman… but let’s keep that between us.
+
+---
+
+## 🚀 What I Do
+
+### 🤖 Artificial Intelligence
+I’ve built **2 production-level AI systems** using **ChatGPT-based models**:
+
+- ✅ **Fine-tuned LLMs** for domain-specific behavior  
+- ✅ **RAG (Retrieval-Augmented Generation)** systems  
+- ✅ **Custom AI workflows** (multi-step reasoning, context memory, decision flow)
+- ✅ AI that **talks differently to each user** based on personality & relationship context
+
+---
+
+### 📱 Mobile Development (React Native)
+
+#### ❤️ AI-Powered Dating App
+A fully custom dating platform built with **React Native**, featuring:
+
+- 🧪 Personality & compatibility **tests**
+- 📊 A **custom matching algorithm** that calculates user-specific compatibility scores
+- 🤖 An **AI relationship assistant** that talks personally to each user
+- 🔐 Auth, user profiles, matching logic, AI integration
+
+> This is not a template app — it’s a **behavior-driven system**.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Core
+- **JavaScript (ES6+)**
+- **HTML5 / CSS3**
+- **SQL**
+
+### Frontend & Mobile
+- **React**
+- **React Native**
+- Expo
+- JSON, REST APIs
+
+### Backend & Tools
+- Node.js
+- Git, GitHub, GitLab
+- Firebase
+- NPM, Jest
+
+### AI & Data
+- LLM Fine-tuning
+- RAG Architectures
+- Prompt Engineering
+- AI Workflow Design
+
+### Dev & Infra
+- Nginx
+- Cloudflare
+- WordPress
+- XAMPP / Laragon
+
+---
+
+## 🧩 Soft Skills (Yes, They Matter)
+
+- Analytical Thinking
+- Product-Oriented Mindset
+- Teamwork & Multitasking
+- Debugging & Problem Solving
+- Agile / Scrum Experience
+
+---
+
+## 💼 Experience
+
+### **Humna** — *IT Lead / Frontend Developer*  
+📅 Jun 2022 – Present
+
+- IT & frontend leadership
+- Production, cost, sales & quality processes
+- Accounting & HR-related systems
+- Active frontend development when needed
+
+---
+
+### **Humna** — *Project Coordinator*  
+📅 Jan 2021 – Jun 2022
+
+- Agile & Scrum-based project execution
+- End-to-end project lifecycle management
+
+---
+
+### **Humna** — *Account Manager*  
+📅 Jun 2020 – Jan 2021
+
+- Customer relations
+- Sales & account operations
+
+---
+
+### **Mizmer** — *Junior Web Developer Intern*  
+📅 Jan 2020 – Jun 2020
+
+- Static website maintenance & development
+
+---
+
+## 🎓 Education
+
+**Computer Programming**  
+Başkent University — *2021*
+
+---
+
+## 📜 Certifications
+
+- **HTML, CSS & JavaScript for Web Developers** — Johns Hopkins University  
+- **SQL for Data Science** — University of California, Davis  
+- **Introduction to Git & GitHub** — Google Cloud  
+- **Introduction to Mobile Development** — Meta  
+- **Programming with JavaScript** — Meta  
+- **React Basics** — Meta  
+- **React Native** — Meta  
+- **Occupational Health & Safety Training** — Başkent University  
+
+---
+
+## 🌍 Languages
+
+- 🇹🇷 Turkish — Native  
+- 🇬🇧 English — Fluent
+- 🇯🇵 Japanese - A1/N5
+- 🇩🇪 German — A1
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 **LinkedIn:** https://www.linkedin.com/in/alienveryilmaz  
+- 📸 **Instagram:** https://www.instagram.com/alienveryilmaz  
+- 💻 **GitHub:** https://github.com/alienveryilmaz  
+- 📧 **Email:** alienveryilmaz@gmail.com  
+
+---
+
+## 📊 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alienveryilmaz&langs_count=10&theme=radical&hide_border=true)
+
+---
+
+## ✍️ Random Dev Quote
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+⭐️ *I don’t just write code — I build systems that understand people.*
