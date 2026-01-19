@@ -16,9 +16,9 @@
 ---
 
 ## 🚀 What I Do
-
+I’ve worked on projects across different domains, including software development, system design, and artificial intelligence, with a strong focus on building real-world, production-ready systems.
 ### 🤖 Artificial Intelligence
-I’ve built **2 production-level AI systems** using **ChatGPT-based models**:
+Below are **two production-level AI systems** that I chose to **highlight** as representative examples of my AI-focused work:
 
 - ✅ **Fine-tuned LLMs** for domain-specific behavior  
 - ✅ **RAG (Retrieval-Augmented Generation)** systems  
