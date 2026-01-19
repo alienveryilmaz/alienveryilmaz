@@ -19,6 +19,7 @@
 I’ve worked on projects across different domains, including software development, system design, and artificial intelligence, with a strong focus on building real-world, production-ready systems.
 ### 🤖 Artificial Intelligence
 Below are **two production-level AI systems** that I chose to **highlight** as representative examples of my AI-focused work:
+> Live product access and system-level explanations are available in the repository.
 
 - ✅ **Fine-tuned LLMs** for domain-specific behavior  
 - ✅ **RAG (Retrieval-Augmented Generation)** systems  
@@ -31,6 +32,7 @@ Below are **two production-level AI systems** that I chose to **highlight** as r
 
 #### ❤️ AI-Powered Dating App
 A fully custom dating platform built with **React Native**, featuring:
+> The repository includes Figma designs and product-level implementation details.
 
 - 🧪 Personality & compatibility **tests**
 - 📊 A **custom matching algorithm** that calculates user-specific compatibility scores
